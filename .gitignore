@@ -1,0 +1,9 @@
+# big data files - never commit these
+*.pt
+*.h5ad
+*.h5
+*.npy
+# python junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
