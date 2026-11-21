@@ -1,0 +1,26 @@
+genes                 : 19790
+embedding dimension   : 5120
+NaN values            : 0
+all-zero vectors      : 0
+vector L2 norm        : min 5.49  median 7.18  max 13.66
+example genes         : A1BG, A1CF, A2M, A2ML1, A3GALT2, A4GALT, A4GNT, AAAS ...
+
+genes per heuristic family:
+  Other                 17337
+  Zinc finger           605
+  Olfactory receptor    396
+  Solute carrier        376
+  Immunoglobulin        198
+  Ribosomal             176
+  Keratin               149
+  Chemokine / IL        127
+  Histone               77
+  Cytochrome P450       57
+  Translation init.     56
+  Mito complex I        48
+  Collagen              44
+  Proteasome            40
+  Cadherin / PCDH       36
+  Taste receptor        27
+  HLA / immune MHC      21
+  Tubulin               20
